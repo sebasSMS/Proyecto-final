@@ -1,6 +1,6 @@
-import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
+import javax.swing.*;
 
 public class ConversionMoneda extends JFrame implements ActionListener {
 
@@ -83,3 +83,4 @@ public class ConversionMoneda extends JFrame implements ActionListener {
         new ConversionMoneda().setVisible(true);
     }
 }
+//"se hace el modelo de operaciones matemáticas"
