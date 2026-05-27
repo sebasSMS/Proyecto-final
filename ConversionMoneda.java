@@ -83,4 +83,4 @@ public class ConversionMoneda extends JFrame implements ActionListener {
         new ConversionMoneda().setVisible(true);
     }
 }
-//"se hace el modelo de operaciones matemáticas"
+//"se hace el modelo de operaciones matemáticas "
